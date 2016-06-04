@@ -6,7 +6,7 @@
 
 教你如何輕鬆搞定繁瑣流程，合法出國工作。
 
-全文請至 [Wiki](https://github.com/chitsaou/australia/wiki) 閱讀。
+全文請至 [Wiki](https://github.com/taiwanese-work-in/australia/wiki) 閱讀。
 
 其他國家請參考 [taiwanese-work-in](https://github.com/taiwanese-work-in)。
 
